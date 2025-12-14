@@ -28,11 +28,14 @@ docs/
 
 👉 **[開業準備ロードマップ](./opening-preparation/README.md)**
 
-- [フェーズ1：12月（基礎準備）](./opening-preparation/phase1-december.md)
-- [フェーズ2：1月（計画具体化）](./opening-preparation/phase2-january.md)
-- [フェーズ3：1月末〜3月（法人化準備）](./opening-preparation/phase3-incorporation.md)
-- [事業目標・売上計画（お金稼ぐ計画）](./opening-preparation/business-goals.md)
-- [資金調達計画（お金借りる計画）](./opening-preparation/funding-plan.md)
+**フェーズ別TODO:**
+- [phases/ - フェーズ別TODO](./opening-preparation/phases/README.md)
+
+**お金の計画:**
+- [plans/ - お金の計画](./opening-preparation/plans/README.md)
+
+**事業戦略:**
+- [strategy/ - 事業戦略](./opening-preparation/strategy/README.md)
 
 <br>
 

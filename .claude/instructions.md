@@ -289,11 +289,16 @@ Claude：
 
 ### 現在のフェーズ（opening-preparation）
 - `opening-preparation/README.md` - 開業準備ロードマップ
-- `opening-preparation/phase1-december.md` - 12月TODO
-- `opening-preparation/phase2-january.md` - 1月TODO
-- `opening-preparation/phase3-incorporation.md` - 2月〜3月TODO
-- `opening-preparation/business-goals.md` - お金稼ぐ計画
-- `opening-preparation/funding-plan.md` - お金借りる計画
+- `opening-preparation/phases/` - フェーズ別TODO
+  - `phase1-december.md` - 12月TODO
+  - `phase2-january.md` - 1月TODO
+  - `phase3-incorporation.md` - 2月〜3月TODO
+- `opening-preparation/plans/` - お金の計画
+  - `business-goals.md` - お金稼ぐ計画
+  - `funding-plan.md` - お金借りる計画
+- `opening-preparation/strategy/` - 事業戦略
+  - `small-business-plan.md` - スモールビジネス3本柱
+  - `ma-strategy.md` - M&A戦略方針
 
 ### マニュアル
 - `manuals/README.md` - マニュアル一覧

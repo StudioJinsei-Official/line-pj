@@ -2,11 +2,11 @@
 
 **最終更新：2025/12/14**
 
+📂 [docsに戻る](../README.md)
+
 ---
 
-<br><br>
-
-## 📅 Schedule
+## 📅 確定スケジュール
 
 ### 12月
 - **2025/12/13** ✅ 開業届・青色申告承認申請書提出完了
@@ -30,69 +30,49 @@
 
 ---
 
-<br><br>
+## 📂 ドキュメント構成
 
-## 🌱 フェーズ別計画
+### 🗓️ フェーズ別TODO
+各月のやることを管理
 
+👉 **[フェーズ別TODO一覧](./phases/README.md)**
 
-###  フェーズ1：12月（基礎準備）
-**目標：1月11日・18日の相談に向けて事業内容をまとめる**
-
-- 開業届・青色申告完了
-- 口座・カード申請
-- 事業内容・サービス概要の明確化
-- お金の計画策定
-
-📄 詳細：[phase1-december.md](./phase1-december.md)
+- [フェーズ1：12月（基礎準備）](./phases/phase1-december.md)
+- [フェーズ2：1月（計画具体化）](./phases/phase2-january.md)
+- [フェーズ3：1月末〜3月（法人化準備）](./phases/phase3-incorporation.md)
 
 ---
 
-###  フェーズ2：1月（計画具体化）
-**目標：行政の相談を活用してお金のことや事業計画を明確にする**
+### 💰 お金の計画
+稼ぐ・借りる、両方の計画
 
-- 起業相談・創業セミナーで情報収集
-- 事業計画書の作成
-- 資金計画の詳細化
-- 必要な手続きの洗い出し
+👉 **[お金の計画一覧](./plans/README.md)**
 
-📄 詳細：[phase2-january.md](./phase2-january.md)
+- [事業目標・売上計画（お金稼ぐ計画）](./plans/business-goals.md)
+- [資金調達計画（お金借りる計画）](./plans/funding-plan.md)
 
 ---
 
-###  フェーズ3：1月末〜3月（法人化準備）
-**目標：創業塾で学びながら法人化の準備を進める**
+### 🎯 事業戦略
+スモールビジネスとM&A
 
-- 創業塾（全5回）参加
-- 法人化に向けた準備
-- 本格的な営業活動開始
-- 事業基盤の確立
+👉 **[事業戦略一覧](./strategy/README.md)**
 
-📄 詳細：[phase3-incorporation.md](./phase3-incorporation.md)
+- [スモールビジネス3本柱](./strategy/small-business-plan.md) - 1日15分運用
+- [M&A戦略方針](./strategy/ma-strategy.md) - 年商7,000万円目標
 
 ---
 
-<br><br>
+### 📚 マニュアル・運用ガイド
 
-## 📂 関連資料
-
-### 事業計画
-- [事業目標・売上計画（お金稼ぐ計画）](./business-goals.md) - 月別売上目標とアクションプラン
-- [資金調達計画（お金借りる計画）](./funding-plan.md) - 融資・資金調達の具体的計画
-
-### 事業戦略（第一弾）
-- [スモールビジネス3本柱](./small-business-plan.md) - 1日15分運用前提のビジネス設計
-- [M&A戦略方針](./ma-strategy.md) - 年商7,000万円を見据えた事業買収戦略
-
-### マニュアル・運用ガイド
 - [マニュアル一覧](../manuals/README.md)
-- [事業用お金管理・運用計画](../manuals/business-finance-plan.md) - freee × PayPay銀行の運用方針
-- [GitHub運用方針](../manuals/github-workflow.md) - 経営・実験・実装の切り分け
-- [GitHubアカウント設計](../manuals/GITHUB_ACCOUNT_PLAN.md) - アカウント構成・SSH設定
+- [事業用お金管理・運用計画](../manuals/business-finance-plan.md)
+- [GitHub運用方針](../manuals/github-workflow.md)
+- [GitHubアカウント設計](../manuals/GITHUB_ACCOUNT_PLAN.md)
 
 ---
-<br><br>
 
-## 進捗管理ルール
+## 📊 進捗管理ルール
 
 - 各フェーズのTODOは対応するファイルで管理
 - 週次レビュー：毎週日曜日
