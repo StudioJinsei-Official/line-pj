@@ -98,14 +98,11 @@
 
 **📸 参考画像：**
 
-<img src="./content/images/lalacitta-richmenu.PNG" width="45%" alt="リッチメニュー">
-<img src="./content/images/lalacitta-store.PNG" width="45%" alt="店舗情報">
+<img src="./content/images/lalacitta-richmenu.PNG" width="30%" alt="リッチメニュー">
+<img src="./content/images/lalacitta-store.PNG" width="30%" alt="店舗情報">
+<img src="./content/images/lalacitta-parking.PNG" width="30%" alt="駐車場案内">
 
-*左：リッチメニューのデザイン　右：店舗詳細・アクセス情報*
-
-<img src="./content/images/lalacitta-parking.PNG" width="60%" alt="駐車場案内">
-
-*Webサイトでの駐車場案内ページ*
+*左：リッチメニュー　中：店舗詳細・アクセス　右：駐車場案内*
 
 ---
 
