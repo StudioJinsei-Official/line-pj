@@ -1,0 +1,86 @@
+# ===================
+# OS関連（自動生成されるファイル）
+# ===================
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===================
+# エディタ・IDE関連
+# ===================
+# VSCode / Cursor
+.vscode/
+*.code-workspace
+
+# JetBrains (WebStorm, IntelliJ等)
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ===================
+# 一時ファイル・バックアップ
+# ===================
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# ===================
+# ログファイル
+# ===================
+*.log
+logs/
+
+# ===================
+# 機密情報（絶対にGitHubにあげちゃダメ！）
+# ===================
+# 環境変数・シークレット
+.env
+.env.local
+.env.*.local
+*.env
+
+# APIキー・認証情報
+secrets/
+credentials/
+*.pem
+*.key
+
+# ===================
+# Node.js（将来使う場合）
+# ===================
+node_modules/
+npm-debug.log*
+
+# ===================
+# Python（将来使う場合）
+# ===================
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# ===================
+# その他
+# ===================
+# 圧縮ファイル（大きいので除外）
+*.zip
+*.tar.gz
+*.rar
+
+# 下書き・メモ（Gitに上げたくない個人メモ）
+draft/
+drafts/
+_private/
+
