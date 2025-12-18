@@ -159,3 +159,4 @@ export GOOGLE_API_KEY="your-api-key"
 ## 関連リンク
 - [slomap-note-automation リポジトリ](https://github.com/dataanalytics2020/slomap-note-automation)
 - [Nano Banana Pro 参考記事](https://note.com/yuichirohonda/n/nf92bf6f3e292)
+
