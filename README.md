@@ -24,7 +24,12 @@ StudioJinsei 公式LINEアカウントの運用に関する資料をまとめて
 ### コンテンツ設計
 - [content/](./content/) - リッチメニュー・自動応答・メッセージ等の設計
 
+### 参考資料
+- [docs/nanobanana-original/](./docs/nanobanana-original/) - 師匠からもらったnanobanana skill（さがすちゃん等キャラ設定）
+  - ※これは参考・保存用。実際には使わない。
+  - StudioJinsei版は `/Users/rin5uron/Desktop/StudioJinsei/docs/nanobanana-base` を使用
 
+---
 
 ## 🎯 基本方針
 
