@@ -1,0 +1,9 @@
+A minimal logo on light beige background.
+
+Text in two lines, both words in title case (first letter capital, rest lowercase):
+Studio
+Jinsei
+
+Bold sans-serif font, black text.
+One thin horizontal line between the two words.
+Clean and simple. Square format.

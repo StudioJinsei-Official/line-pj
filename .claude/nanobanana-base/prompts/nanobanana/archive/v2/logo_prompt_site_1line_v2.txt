@@ -1,0 +1,31 @@
+# サイトロゴ用（1行レイアウト）- 参照画像ベース
+
+Recreate the provided reference image EXACTLY, but in 1-line horizontal layout, and change ONLY:
+1. Capitalization: Change "STUDIO JINSEI" to "StudioJinsei"
+2. Font weight: Slightly increase font weight
+3. Layout: 1-line horizontal instead of 2-line vertical
+
+**CRITICAL - FOLLOW EXACTLY:**
+- **Use the EXACT SAME design style as the reference image**
+- **ONLY change text to: "StudioJinsei" (written as ONE WORD)**
+- **Capitalization: "StudioJinsei" = capital S, capital J, all others lowercase**
+- **Font weight: Increase slightly from reference (make slightly bolder/heavier)**
+- **Background: EXACTLY the same as reference image** (light beige/off-white)
+- **Font style: EXACTLY the same as reference image** (modern sans-serif)
+- **Overall aesthetic: EXACTLY the same as reference image**
+- **Layout: Horizontal 1-line instead of vertical 2-line**
+
+**DO NOT CHANGE:**
+- Background color (keep same as reference)
+- Font family/style (keep same as reference)
+- Overall design aesthetic (keep same as reference)
+
+**ONLY CHANGE:**
+- Text from "STUDIO JINSEI" to "StudioJinsei"
+- Font weight (make slightly heavier/bolder)
+- Layout (horizontal 1-line instead of vertical 2-line)
+
+**Output:**
+- Horizontal layout, high-resolution (4000x1200px minimum)
+- Clean, minimal design matching reference image style
+- Only modifications: capitalization, font weight, and layout orientation

@@ -1,0 +1,38 @@
+Create a minimalist, elegant logo design for "StudioJinsei" in 2-line layout.
+
+REFERENCE DESIGN STYLE:
+- Inspired by Francfranc, STEEN cafe, and Chii portfolio aesthetics
+- Elegant, sophisticated, feminine yet professional
+- Clean typography with subtle geometric accents
+- Similar to the soft, minimalist Japanese design aesthetic
+
+TEXT REQUIREMENTS (CRITICAL):
+- Line 1: "Studio" (capital S, lowercase tudio)
+- Line 2: "Jinsei" (capital J, lowercase insei)
+- Font: Modern elegant sans-serif or refined serif
+- Font weight: Medium to Semi-bold (500-600 weight) for readability
+- Letter spacing: Comfortable, not too tight
+- Emphasize "Jinsei" slightly more than "Studio"
+
+BACKGROUND:
+- Soft light beige (#F5F0E8 or #FAF7F2)
+- Clean, minimal, no texture
+- ABSOLUTELY NO GREEN, NO MINT, NO TEAL
+
+DESIGN ELEMENTS:
+- Subtle geometric accents: thin circles, lines, or minimal shapes around or near the text
+- Think: delicate, refined, not heavy or busy
+- Similar to how STEEN integrates geometric elements with typography
+- Could include: a small circle accent, thin horizontal/vertical line, or simple frame element
+
+STYLE:
+- Minimalist and elegant (Francfranc-inspired)
+- Sophisticated, design-focused
+- Readable but artistic
+- Clean composition with balanced whitespace
+- NOT corporate/banking style (avoid looking like Sumitomo Mitsui or Matsui Securities)
+
+OUTPUT:
+- Square format (1:1 ratio) for SNS icon use
+- High contrast between text and background for readability
+- Professional quality, suitable for brand identity

@@ -1,0 +1,103 @@
+[StudioJinsei Brand Foundation]
+
+Concept: "Making invisible thoughts visible and tangible"
+
+Visual direction:
+- Simple yet warm (not cold)
+- Organized yet approachable (not rigid)
+- Sophisticated yet friendly (not intimidating)
+- Professional yet personal (not distant)
+
+Color palette: Soft mint green (#A8D5BA), dark teal (#1D4E4A), pale mint (#E8F5EE), white (#FFFFFF).
+Main: soft mint green (#A8D5BA), accent: dark teal (#1D4E4A).
+
+Typography: Modern sans-serif, Poppins or similar clean font style.
+
+Design style:
+- Minimalist, Apple-inspired clean aesthetic
+- Plenty of white space, generous breathing room
+- Simple, uncluttered, focused layout
+- High quality, attention to detail
+
+Avoid:
+- Flashy, overly colorful, hyper-energetic styles
+- Spiritual, abstract, mystical vibes
+- Cold, corporate, distant aesthetics
+- Cheap, low-quality appearance
+
+---
+
+Professional minimalist wordmark logo for "StudioJinsei" with TWO layout variations.
+
+**VERSION 1: Two-line stacked layout (Primary - optimized for SNS icons)**
+- Line 1: "Studio" (light/thin weight 300-400, smaller size)
+- Line 2: "Jinsei" (bold weight 600-700, LARGER - 1.5-2x size of Studio)
+- Stack vertically with minimal line spacing
+- Strong visual hierarchy - Jinsei clearly dominant
+- Better visibility when scaled to small icons (128px or less)
+
+**VERSION 2: One-line horizontal layout (Alternative - for website headers)**
+- "Studio Jinsei" in one line
+- "Studio" light/thin (300-400), "Jinsei" bold (600-700)
+- Horizontal arrangement with careful letter spacing
+- Maintains hierarchy through weight contrast
+
+**Typography (for BOTH versions):**
+- Modern sans-serif, Poppins or similar clean, geometric font
+- High contrast between Studio (light) and Jinsei (bold)
+- Generous letter spacing (tracking) for clarity
+- Sharp, precise, clean letterforms
+- Must be highly legible at small sizes (64px) and large sizes (1024px+)
+
+**Emphasizing "Jinsei" (CRITICAL):**
+- Size: Jinsei noticeably LARGER than Studio (especially in stacked version)
+- Weight: Jinsei significantly BOLDER (600-700 vs 300-400)
+- Color option: Jinsei can use slightly richer/darker teal shade
+- Integrated accent: Soft mint green (#A8D5BA) accent if used must feel natural:
+  - Small geometric element (dot, minimal line) beside or near Jinsei
+  - OR subtle color highlight on specific letter
+  - Must NOT float disconnected - should feel cohesive
+  - NO separate underlines that appear floating
+
+**Layout & Spacing:**
+- Square composition 1024x1024px (primary)
+- Generous white space is essential - minimum 30-35% surrounding empty space
+- Centered with ample margins, breathing room on all sides
+- Well-balanced, professional composition
+
+**Color Scheme:**
+- Primary text: Dark teal (#1D4E4A)
+- Jinsei emphasis: Can use slightly richer/darker teal
+- Accent: Soft mint green (#A8D5BA) - use sparingly, integrated, NOT floating
+- Background: Pure white (#FFFFFF) or transparent
+- Keep total colors to 2-3 maximum for clarity
+
+**Style & Aesthetics:**
+- Ultra-minimalist, Apple-inspired clean aesthetic
+- Clean, precise letterforms with generous letter spacing (tracking)
+- Extensive white space - logo should feel uncluttered and open
+- Modern, trustworthy, approachable, warm
+- Professional yet personal, sophisticated yet friendly
+- High attention to typographic details: kerning, alignment, balance
+
+**Critical Constraints:**
+- NO decorative elements, ornaments, or embellishments
+- NO symbols, icons, badges, or graphic marks
+- NO floating/disconnected underlines or accents
+- NO complicated ligatures, flourishes, or overly stylized fonts
+- NO gradient, shadow, or 3D effects
+- NO cluttered or crowded composition
+- Text only, extremely simple - less is more
+- Any accent must feel integrated and natural, NOT separate or floating
+
+**Output Specifications:**
+- Format: Square 1024x1024px (optimized for SNS icons and web use)
+- Style: High-quality vector-like appearance, crisp edges
+- Composition: Centered with ample margins, breathing room on all sides
+- Final result: Clean, simple, memorable, timeless
+- Must work perfectly when scaled down to 128px or smaller (especially VERSION 1)
+- High visibility and readability even at small icon sizes
+
+**Deliverables:**
+- VERSION 1: Two-line stacked (Studio / Jinsei) - Primary for SNS
+- VERSION 2: One-line horizontal (Studio Jinsei) - Alternative for web

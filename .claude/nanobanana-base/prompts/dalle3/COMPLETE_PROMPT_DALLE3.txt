@@ -1,0 +1,29 @@
+Create a minimalist text-only logo for "StudioJinsei".
+
+Design:
+- Modern sans-serif font (Poppins-style)
+- "Studio" in thin/light weight, "Jinsei" in medium/semibold weight
+- Clean, precise typography with generous letter spacing
+- Square composition (1024x1024px) optimized for both SNS icons and website use
+- Extensive white space - minimum 30% empty space around the text
+- Centered with ample margins on all sides
+
+Colors:
+- Primary text: Dark teal (#1D4E4A)
+- Accent: Soft mint green (#A8D5BA) - use sparingly as subtle underline or minimal accent
+- Background: Pure white (#FFFFFF)
+
+Style:
+- Ultra-minimalist, Apple-inspired clean aesthetic
+- Professional yet approachable and warm
+- Sophisticated yet friendly
+- High attention to typographic details
+
+Critical constraints:
+- NO symbols, icons, or graphic elements
+- NO decorative elements
+- NO gradients, shadows, or 3D effects
+- Text only, extremely simple
+- Less is more
+
+The logo should work perfectly when scaled down to 256px or smaller.

@@ -1,0 +1,30 @@
+# SNSアイコン用ロゴ（2行レイアウト）- 参照画像ベース
+
+Recreate the provided reference image EXACTLY, but change ONLY:
+1. Capitalization: Change "STUDIO JINSEI" to "Studio Jinsei"
+2. Font weight: Slightly increase font weight
+
+**CRITICAL - FOLLOW EXACTLY:**
+- **Use the EXACT SAME design as the reference image**
+- **ONLY change text to: "Studio" (first line) and "Jinsei" (second line)**
+- **Capitalization: "Studio" = capital S + lowercase tudio, "Jinsei" = capital J + lowercase insei**
+- **Font weight: Increase slightly from reference (make slightly bolder/heavier)**
+- **Background: EXACTLY the same as reference image** (light beige/off-white)
+- **Layout: EXACTLY the same as reference image** (2 lines, centered)
+- **Font style: EXACTLY the same as reference image** (modern sans-serif)
+- **Spacing: EXACTLY the same as reference image**
+
+**DO NOT CHANGE:**
+- Background color (keep same as reference)
+- Font family/style (keep same as reference)
+- Layout (keep same as reference)
+- Overall design aesthetic (keep same as reference)
+
+**ONLY CHANGE:**
+- Text from "STUDIO JINSEI" to "Studio Jinsei"
+- Font weight (make slightly heavier/bolder)
+
+**Output:**
+- Square 1024x1024px
+- Clean, minimal design matching reference image
+- Only modifications: capitalization and font weight

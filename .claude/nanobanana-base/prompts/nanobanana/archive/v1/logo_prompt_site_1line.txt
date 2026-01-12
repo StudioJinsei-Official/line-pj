@@ -1,0 +1,77 @@
+# サイトロゴ用（1行レイアウト）- 高解像度PNG
+# ベースプロンプト（../nanobanana-base/brand-foundation.md）は自動的に読み込まれます
+
+Elegant, sophisticated wordmark logo with only the text "StudioJinsei" - Website header version (1-line horizontal layout). Inspired by Francfranc's refined aesthetic. High-resolution PNG for web use.
+
+**CRITICAL REQUIREMENTS:**
+- Text-only logo - NO taglines, NO subtitles, NO additional messages, ONLY "StudioJinsei"
+- **EXACT SPELLING: "StudioJinsei" - capital S, capital J, all other letters lowercase - written as ONE WORD**
+- **BACKGROUND MUST BE BEIGE (#F5F0E8 or #FAF7F2) - ABSOLUTELY NO GREEN BACKGROUND**
+- **THIS DESIGN MUST MATCH THE STYLE OF THE 2-LINE VERSION - same font, same accent style, same overall aesthetic**
+
+**Design Requirements:**
+- Elegant wordmark logo with subtle geometric accents
+- One-line horizontal layout: "StudioJinsei" written as one word
+- Typography: Refined serif font OR elegant modern sans-serif (similar to Didot, Bodoni, or Optima)
+- Sophisticated letterforms with good readability - NOT too thin
+- Visual differentiation: "Studio" portion in regular weight (400-500), "Jinsei" portion in bold weight (700)
+- **"Jinsei" portion should be THE DOMINANT FOCAL POINT - noticeably larger AND bolder**
+- **CRITICAL: "Jinsei" should be significantly emphasized compared to "Studio"**
+- Add subtle geometric accents: small dots, thin lines, or delicate shapes
+- Optimized for horizontal website header format
+- Must be highly legible at various sizes (from 32px to 200px height)
+- Generous horizontal spacing and breathing room
+- **High resolution: 4000px width minimum for web scalability**
+
+**Layout Specifications:**
+- Horizontal composition: **4000x1200px or larger for high-resolution web use**
+- "StudioJinsei" as a single word with subtle weight variation
+- Optional: Small geometric accent (dot, line, or arc) positioned tastefully near the wordmark
+- Balanced horizontal composition
+- Centered or left-aligned based on elegance
+- Ample margins on all sides
+
+**Color Scheme:**
+- **Background: Warm light beige (#F5F0E8 or #FAF7F2) - ABSOLUTELY NO GREEN, NO MINT, NO TEAL background**
+- **CRITICAL: Background MUST be beige/cream color, NOT white, NOT green**
+- Text: Deep charcoal (#2C2C2C) for main text
+- Geometric accent (if used): Soft mint green (#A8D5BA) - use ONLY for small accent elements, NOT for background
+- Possible subtle variation: "Studio" portion slightly lighter (#8B8680)
+- Total colors: 2-3 maximum
+- NO corporate finance colors, NO typical banking aesthetics
+- **VERIFY: The background should look like warm beige paper or cream surface**
+
+**Style & Aesthetics:**
+- Francfranc-inspired: elegant, refined, feminine yet professional
+- Sophisticated boutique design studio aesthetic
+- "Jinsei" portion must stand out clearly
+- Extensive beige space - uncluttered and breathable
+- Professional yet warm, approachable, and contemporary
+- High attention to typographic details: kerning, letter spacing, balance
+- Works perfectly in website headers, email signatures
+- Subtle geometric elements enhance rather than distract
+
+**Geometric Accents (use sparingly):**
+- Small dots or circles positioned elegantly
+- Delicate thin lines above, below, or alongside the wordmark
+- Subtle arc or circular shapes
+- Keep it minimal - one or two small accents maximum
+- Should complement the typography, not overpower it
+
+**Critical Constraints:**
+- NO heavy decorative elements or ornaments
+- NO symbols or icons
+- NO taglines, subtitles, or additional text beyond "StudioJinsei"
+- NO "Generated with..." or any other messages
+- NO overly complex or baroque decorations
+- NO gradient, heavy shadow, or 3D effects
+- Keep it elegant and refined - sophistication over complexity
+
+**Output Specifications:**
+- Format: Horizontal layout, **high-resolution 4000x1200px minimum**
+- Style: High-quality vector-like appearance, crisp edges
+- Composition: Balanced horizontal layout with ample margins
+- Final result: Elegant, sophisticated, memorable, timeless
+- Should work well in website headers and wide banner contexts
+- Optimized for web display with crisp rendering at various sizes
+- Should feel like a premium boutique brand, not a corporate firm

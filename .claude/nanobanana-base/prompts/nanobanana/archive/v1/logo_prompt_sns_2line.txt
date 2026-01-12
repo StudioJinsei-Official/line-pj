@@ -1,0 +1,74 @@
+# SNSアイコン用ロゴ（2行レイアウト）
+# ベースプロンプト（../nanobanana-base/brand-foundation.md）は自動的に読み込まれます
+
+Elegant, sophisticated wordmark logo with only the text "StudioJinsei" - SNS icon version (2-line layout). Inspired by Francfranc's refined aesthetic.
+
+**CRITICAL REQUIREMENTS:**
+- Text-only logo - NO taglines, NO subtitles, NO additional messages, ONLY "StudioJinsei"
+- **EXACT SPELLING: "StudioJinsei" - capital S, capital J, all other letters lowercase**
+- **BACKGROUND MUST BE BEIGE (#F5F0E8 or #FAF7F2) - ABSOLUTELY NO GREEN BACKGROUND**
+
+**Design Requirements:**
+- Elegant wordmark logo with subtle geometric accents
+- Two-line vertical layout: "Studio" on top line, "Jinsei" on bottom line
+- **IMPORTANT: Write exactly "Studio" and "Jinsei" with capital S and capital J only**
+- **THIS DESIGN MUST MATCH THE STYLE OF THE 1-LINE VERSION - same font, same accent style, same overall aesthetic**
+- Typography: Refined serif font OR elegant modern sans-serif (similar to Didot, Bodoni, or Optima)
+- Sophisticated letterforms with good readability - NOT too thin
+- "Studio" in regular weight (400-500), smaller size, graceful
+- **"Jinsei" in bold weight (700), MUCH LARGER size - THE DOMINANT FOCAL POINT**
+- **CRITICAL: "Jinsei" should be at least 1.5x to 2x the size of "Studio" and noticeably bolder**
+- Add subtle geometric accents: small dots, thin lines, or delicate arc shapes around or near the text
+- Optimized for square format (SNS profile icons)
+- Must be highly legible at small sizes (64px-256px)
+- Generous space - minimum 30% surrounding empty space
+
+**Layout Specifications:**
+- Square composition (1024x1024px)
+- "Studio" centered at top, smaller and lighter, elegant
+- "Jinsei" centered below, larger and more prominent
+- Optional: Small geometric accent (dot, line, or arc) positioned tastefully
+- Balanced vertical spacing between lines
+- Centered alignment with ample breathing room
+
+**Color Scheme:**
+- **Background: Warm light beige (#F5F0E8 or #FAF7F2) - ABSOLUTELY NO GREEN, NO MINT, NO TEAL background**
+- **CRITICAL: Background MUST be beige/cream color, NOT white, NOT green**
+- Text: Deep charcoal (#2C2C2C) for main text
+- Geometric accent (if used): Soft mint green (#A8D5BA) - use ONLY for small accent elements, NOT for background
+- Total colors: 2-3 maximum
+- NO corporate finance colors, NO typical banking aesthetics
+- **VERIFY: The background should look like warm beige paper or cream surface**
+
+**Style & Aesthetics:**
+- Francfranc-inspired: elegant, refined, feminine yet professional
+- Sophisticated boutique design studio aesthetic
+- "Jinsei" must stand out clearly - larger size, refined letterforms
+- Extensive beige space - uncluttered and breathable
+- Professional yet warm, approachable, and contemporary
+- High attention to typographic details: kerning, letter spacing, balance
+- Subtle geometric elements enhance rather than distract
+
+**Geometric Accents (use sparingly):**
+- Small dots or circles positioned elegantly
+- Delicate thin lines or underlines
+- Subtle arc or circular shapes
+- Keep it minimal - one or two small accents maximum
+- Should complement the typography, not overpower it
+
+**Critical Constraints:**
+- NO heavy decorative elements or ornaments
+- NO symbols or icons
+- NO taglines, subtitles, or additional text beyond "StudioJinsei"
+- NO "Generated with..." or any other messages
+- NO overly complex or baroque decorations
+- NO gradient, heavy shadow, or 3D effects
+- Keep it elegant and refined - sophistication over complexity
+
+**Output Specifications:**
+- Format: Square 1024x1024px (optimized for SNS icons)
+- Style: High-quality vector-like appearance, crisp edges
+- Composition: Centered with ample margins
+- Final result: Elegant, sophisticated, memorable, timeless
+- Must work perfectly when scaled down to 256px or smaller
+- Should feel like a premium boutique brand, not a corporate firm

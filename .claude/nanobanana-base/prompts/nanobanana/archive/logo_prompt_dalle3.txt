@@ -1,0 +1,32 @@
+# DALL-E 3用 ロゴプロンプト（簡潔版）
+# 無料プロトタイプ作成用 - 方向性確認後、Nanobanana Proで本番生成
+
+Professional minimalist wordmark logo for "StudioJinsei"
+
+**Core Design:**
+- Text-only, no symbols or icons
+- Font: Modern sans-serif (Poppins-style)
+- "Studio" in light weight (300-400), "Jinsei" in bold weight (600-700)
+- Plenty of white space (30%+ margins)
+- Square 1024x1024px format
+
+**Colors:**
+- Text: Dark teal (#1D4E4A)
+- Background: White (#FFFFFF) or soft mint green (#A8D5BA)
+- Keep it simple: 2-3 colors maximum
+
+**Layout:**
+- Horizontal layout preferred for versatility
+- Balanced composition with generous spacing
+- Must be legible at small sizes (256px)
+
+**Style:**
+- Ultra-minimalist, Apple-inspired aesthetic
+- Clean, modern, trustworthy, approachable
+- NO decorative elements, gradients, or shadows
+- NO partial underlines (like "sei" only) - avoid fragmented accents
+
+**Key Constraints:**
+- Simple is better - less is more
+- High quality, attention to detail
+- Professional yet personal, sophisticated yet friendly

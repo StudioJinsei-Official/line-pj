@@ -1,0 +1,33 @@
+# 参照デザインに基づくロゴプロンプト
+# ユーザー提供の参照画像スタイルを厳密に再現
+
+**REFERENCE IMAGE STYLE:**
+Clean, minimalist wordmark with simple sans-serif typography on light beige background. No decorative elements. Professional and modern.
+
+**CRITICAL REQUIREMENTS - FOLLOW EXACTLY:**
+- **EXACT TEXT: "StudioJinsei" - capital S, capital J, all other letters lowercase**
+- **NO variations in capitalization - must be exactly "StudioJinsei"**
+- **Background: Very light warm beige (#FAF7F2 or similar) - BRIGHT, not dark or saturated**
+- **ABSOLUTELY NO green background, NO mint background, NO teal background**
+- Typography: Clean modern sans-serif (similar to Futura, Avenir, or Montserrat)
+- Font weight: Medium to Semi-bold (500-600) - readable but elegant
+- NO decorative elements, NO geometric accents unless very subtle
+- Extremely minimal and clean aesthetic
+
+**COLOR PALETTE:**
+- Background: Very light warm beige (#FAF7F2) - should look almost white with warm undertone
+- Text: Deep charcoal (#2C2C2C) or black
+- NO other colors unless absolutely necessary for subtle accent
+
+**STYLE:**
+- Modern, professional, clean
+- Inspired by boutique design studios
+- NOT corporate, NOT finance-like
+- Elegant simplicity
+
+**CRITICAL: Both 1-line and 2-line versions must use IDENTICAL design style**
+- Same font family
+- Same font weight
+- Same background color
+- Same overall aesthetic
+- Only difference is layout (horizontal vs vertical)

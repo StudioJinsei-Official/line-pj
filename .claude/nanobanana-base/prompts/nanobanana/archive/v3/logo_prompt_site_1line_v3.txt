@@ -1,0 +1,42 @@
+Create a minimalist, elegant logo design for "StudioJinsei" in 1-line horizontal layout.
+
+REFERENCE DESIGN STYLE:
+- Inspired by Francfranc, STEEN cafe, and Chii portfolio aesthetics
+- Elegant, sophisticated, feminine yet professional
+- Clean typography with subtle geometric accents
+- Similar to the soft, minimalist Japanese design aesthetic
+
+TEXT REQUIREMENTS (CRITICAL):
+- Single line: "StudioJinsei" (capital S, capital J, all other letters lowercase)
+- Font: MUST USE THE EXACT SAME FONT as the 2-line version
+- Font weight: Medium to Semi-bold (500-600 weight) for readability - SAME as 2-line version
+- Letter spacing: Comfortable, not too tight
+- Emphasize "Jinsei" slightly more than "Studio" (could be through slight size difference or weight)
+
+BACKGROUND:
+- Soft light beige (#F5F0E8 or #FAF7F2)
+- Clean, minimal, no texture
+- ABSOLUTELY NO GREEN, NO MINT, NO TEAL
+- SAME EXACT BACKGROUND COLOR as the 2-line version
+
+DESIGN ELEMENTS:
+- MUST USE THE EXACT SAME geometric accents as the 2-line version
+- Subtle geometric accents: thin circles, lines, or minimal shapes around or near the text
+- Think: delicate, refined, not heavy or busy
+- Similar to how STEEN integrates geometric elements with typography
+- Could include: a small circle accent, thin horizontal/vertical line, or simple frame element
+- THE DESIGN STYLE MUST BE IDENTICAL to the 2-line version, just arranged horizontally
+
+STYLE:
+- Minimalist and elegant (Francfranc-inspired)
+- Sophisticated, design-focused
+- Readable but artistic
+- Clean composition with balanced whitespace
+- NOT corporate/banking style (avoid looking like Sumitomo Mitsui or Matsui Securities)
+- THIS MUST LOOK LIKE THE SAME BRAND as the 2-line version
+
+OUTPUT:
+- Horizontal rectangular format suitable for website header
+- High contrast between text and background for readability
+- Professional quality, suitable for brand identity
+- Can be used as website logo alongside the 2-line SNS icon version

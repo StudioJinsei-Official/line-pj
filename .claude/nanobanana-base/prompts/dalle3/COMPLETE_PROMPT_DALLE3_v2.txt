@@ -1,0 +1,54 @@
+Create a minimalist text-only logo for "StudioJinsei" with TWO layout variations.
+
+**VERSION 1: Two-line stacked layout (Primary - for SNS icons)**
+- Line 1: "Studio" (thin/light weight, smaller)
+- Line 2: "Jinsei" (medium/bold weight, LARGER and more prominent)
+- Jinsei should be 1.5-2x larger than Studio
+- Stack vertically with minimal space between lines
+- Better visibility when scaled down to small icons
+
+**VERSION 2: One-line horizontal layout (Alternative - for website)**
+- "Studio Jinsei" in one line
+- "Studio" thin, "Jinsei" bold
+- Horizontal arrangement with careful spacing
+
+**Typography for BOTH versions:**
+- Modern sans-serif font (Poppins-style, clean geometric)
+- High contrast between Studio (light 300-400) and Jinsei (bold 600-700)
+- Generous letter spacing for clarity at small sizes
+- Sharp, crisp letterforms
+
+**Emphasizing "Jinsei" (IMPORTANT):**
+- Make Jinsei NOTICEABLY larger/bolder than Studio
+- Option 1: Use slightly darker/richer dark teal for Jinsei only
+- Option 2: Add subtle soft mint green (#A8D5BA) accent - NOT as underline but as:
+  - Small geometric element beside Jinsei (dot, short line)
+  - OR subtle color tint on one letter
+  - Must feel integrated, not floating or disconnected
+
+**Colors:**
+- Primary text: Dark teal (#1D4E4A)
+- Jinsei can be slightly darker/richer teal for emphasis
+- Accent (if used): Soft mint green (#A8D5BA) - minimal, integrated
+- Background: Pure white (#FFFFFF)
+
+**Layout & Spacing:**
+- Square composition 1024x1024px
+- GENEROUS white space (30-35% minimum)
+- Well-balanced, centered
+- High visibility even at 128px or smaller
+
+**Style:**
+- Ultra-minimalist, Apple-inspired aesthetic
+- Professional yet approachable and warm
+- Clean, precise, sophisticated
+- Strong visual hierarchy (Jinsei clearly dominant)
+
+**Critical constraints:**
+- NO floating/disconnected underlines
+- NO symbols or icons
+- NO gradients or 3D effects
+- Text only, extremely clean
+- Any accent must feel natural and integrated
+
+Create BOTH versions so we can compare for different use cases.

@@ -1,0 +1,50 @@
+# このファイルはロゴ専用のプロンプトです
+# ベースプロンプト（../nanobanana-base/brand-foundation.md）は自動的に読み込まれます
+# ここにはロゴ固有の指示のみを記述してください
+
+Professional minimalist wordmark logo for "StudioJinsei".
+
+**Design Requirements:**
+- Text-only design, absolutely no symbols, icons, or graphic elements
+- Typography: Modern sans-serif, Poppins or similar clean, geometric font
+- "Studio" in light/thin weight (300-400), "Jinsei" in medium/semibold weight (500-600)
+- Strong visual hierarchy through font weight contrast and careful spacing
+- Designed for versatility: optimized for both SNS icons (square) and website headers (horizontal)
+- Must be highly legible at small sizes (64px) and large sizes (1024px+)
+- Generous white space is essential - minimum 30% surrounding empty space
+
+**Layout Variations:**
+- Primary: Balanced square composition (for SNS icons)
+- Alternative: Clean horizontal layout (for website header)
+- Text can be stacked or side-by-side, but always with breathing room
+- Consider subtle visual elements using negative space only
+
+**Color Scheme:**
+- Primary text: Dark teal (#1D4E4A) - main wordmark
+- Accent: Soft mint green (#A8D5BA) - use sparingly (minimal geometric accent or subtle color variation only)
+- NO partial underlines or underlines on specific syllables (like "sei" only) - avoid fragmented accents
+- Background: Pure white (#FFFFFF) or transparent
+- Keep total colors to 2-3 maximum for clarity
+
+**Style & Aesthetics:**
+- Ultra-minimalist, Apple-inspired clean aesthetic
+- Clean, precise letterforms with generous letter spacing (tracking)
+- Extensive white space - logo should feel uncluttered and open
+- Modern, trustworthy, approachable, warm
+- Professional yet personal, sophisticated yet friendly
+- High attention to typographic details: kerning, alignment, balance
+
+**Critical Constraints:**
+- NO decorative elements, ornaments, or embellishments
+- NO symbols, icons, badges, or graphic marks
+- NO complicated ligatures, flourishes, or overly stylized fonts
+- NO gradient, shadow, or 3D effects
+- NO cluttered or crowded composition
+- Keep it extremely simple - less is more
+
+**Output Specifications:**
+- Format: Square 1024x1024px (optimized for SNS icons and web use)
+- Style: High-quality vector-like appearance, crisp edges
+- Composition: Centered with ample margins, breathing room on all sides
+- Final result: Clean, simple, memorable, timeless
+- Must work perfectly when scaled down to 256px or smaller
